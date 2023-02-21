@@ -1,5 +1,5 @@
 ---
-description: Test description
+description: Test description.
 ---
 
 # Page 1
